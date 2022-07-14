@@ -1,0 +1,11 @@
+#include "snake."
+
+snake::snake()
+{
+    //ctor
+}
+
+snake::~snake()
+{
+    //dtor
+}
